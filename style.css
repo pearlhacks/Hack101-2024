@@ -1,0 +1,12 @@
+body {
+	background-color: #96d0ff;
+	color: #1876bd;
+	text-align: center;
+	margin-top: 80px;
+}
+button {
+	background-color: #eda901;
+	color: #ffecac;
+	font-size: 15px;
+	margin: 15px;
+}
